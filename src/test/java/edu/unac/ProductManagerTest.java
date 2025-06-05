@@ -68,7 +68,7 @@ class ProductManagerTest {
     }
 
 
-    /*
+
 
     @Test
     void testGetProductsByPriceRange() {
@@ -118,7 +118,7 @@ class ProductManagerTest {
 
     }
 
-     */
+
 
 
 }
